@@ -3,7 +3,3 @@ I'm karan, a passionate java developer. Currently based in gurgaon and always ea
 ## Skills 
 * Core Java
 * Spring frameworks
-* Microservices
-* Hibernate
-* MVC
-  
